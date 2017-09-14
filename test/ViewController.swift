@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let _ = 123
     let _ = "mast"
     override func viewDidLoad() {
         super.viewDidLoad()
